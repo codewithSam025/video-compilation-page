@@ -15,8 +15,9 @@ This project helped me understand how to structure a basic webpage and use `<ifr
 - HTML5
 - YouTube embeds via `<iframe>`
 
+## 📸 Screenshot
+![Video Compilation Page Screenshot](./screenshot.png)
+
 ## 🌐 Live Demo
 [Visit Project](https://codewithsam025.github.io/video-compilation-page/)
 
-## 📸 Screenshot
-![Video Compilation Page Screenshot](./screenshot.png)
